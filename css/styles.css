@@ -1,6 +1,6 @@
 /************************TAGS*******************/
 
-body{
+body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -13,19 +13,19 @@ h1{
   font-size: 6.25rem;
 }
 
-h2{
+h2  {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   color: #719fb0;
 }
 
-h3{
+h3 {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   color: #719fb0;
 }
 
-hr{
+hr {
   border-style: none;
   border-top: dotted;
   border-color: #e4f9f5;
@@ -49,7 +49,7 @@ p {
   background-color: #719fb0;
 }
 
-.bottom-cloud{
+.bottom-cloud {
   position: absolute;
   left: 300px;
   bottom: 300px;
@@ -151,7 +151,7 @@ p {
   line-height: 2;
 }
 
-.top-cloud{
+.top-cloud {
   position: absolute;
   right: 300px;
   top: 50px;
