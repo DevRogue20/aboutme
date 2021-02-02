@@ -1,0 +1,195 @@
+/************************TAGS*******************/
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #719fb0;
+  font-size: 6.25rem;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #719fb0;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #719fb0;
+}
+
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-color: #e4f9f5;
+  border-width: 10px;
+  width: 5%;
+  padding-bottom: 200px;
+}
+
+p {
+  font-weight: bold;
+  color: #557174
+}
+
+
+/*******************CLASSES*********************/
+
+.accredidation {
+  position: absolute;
+  right: 10px;
+  bottom: 0;
+  background-color: #719fb0;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #719fb0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   margin: 30px;
+   background-color: #112D4E;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.comp-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.contact-me {
+  padding-bottom: 50px;
+}
+
+.email-icon {
+  height: 5%;
+  width: 5%;
+}
+
+.guitar-img {
+  float: right;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.middle-container {
+  padding-bottom: 50px;
+}
+
+.profile {
+  margin: 200px auto 200px auto;
+  width: 30%;
+  line-height: 2;
+}
+
+.profile-img {
+  border-radius: 100px;
+}
+
+.skills {
+  padding-bottom: 200px;
+}
+
+.skill-row-one {
+  margin: 200px auto 200px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-two {
+  margin: 200px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #f7fbfc;
+  position: relative;
+  padding-top: 100px;
+}
+
+/***************IDs***************/
+
+#copyright {
+  margin: 0;
+}
+
+#cred {
+  font-size: .6rem;
+}
+
+#fb-icon {
+  display: inline;
+  height: 2rem;
+  width: 2rem;
+  padding: 10px;
+}
+
+#head-two {
+  font-family: 'Sacramento', cursive;
+  color: #719fb0;
+  font-size: 3.125rem;
+  font-weight: normal;
+}
+
+#linkedin {
+  display: inline;
+  height: 2rem;
+  width: 2rem;
+  padding: 10px;
+}
